@@ -38,7 +38,7 @@ function App() {
   >
     <source src="https://res.cloudinary.com/dhjbyazal/video/upload/v1667783604/Anita/y2mate.com_-_Nicki_Nicole_Baby_Official_Video_64kbps_eeu2kg.mp3" type='audio/mp3' />
   </audio>
-  <h1 className='desliza' >Deslizá →</h1>
+  <span className='desliza' >Deslizá →</span>
   <div style={style}>
     <iframe loading="lazy" style={style2}
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRGmODlsc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">

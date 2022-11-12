@@ -38,16 +38,15 @@
   margin: 0px;
   font-size: x-large;
   color: darkslateblue;
+  font-style: italic;
 }
 
 @keyframes slidein {
   from {
-    margin-left: 0%;
-    width: 300%
+    margin-left: 10%;
   }
 
   to {
     margin-left: 60%;
-    width: 100%;
   }
 }
