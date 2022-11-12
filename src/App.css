@@ -33,7 +33,7 @@
 .desliza {
   animation-duration: 3s;
   animation-name: slidein;
-  font-family: emoji;
+  font-family:'Times New Roman', Times, serif;
   animation-iteration-count: infinite;
   margin: 0px;
   font-size: x-large;
